@@ -52,7 +52,7 @@ jsonschema-specifications==2025.9.1
 kubernetes==34.1.0
 langchain==0.3.27
 langchain-community==0.3.31
-langchain-core==0.3.78
+langchain-core==0.3.80
 langchain-openai==0.3.34
 langchain-postgres==0.0.15
 langchain-text-splitters==0.3.11
